@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE course SYSTEM "../xml/course.dtd">
+<!--
+Course metadata for Comp4711
+-->
+<course>
+    <!-- Course metadata -->
+    <code>acit2910</code>
+    <title>Projects</title>
+    <subtitle>ACIT2910</subtitle>
+    <coursetitle>ACIT2910</coursetitle>
+    <author>James L. Parry</author>
+    <email>jim_parry@bcit.ca</email>
+    <outline>http://www.bcit.ca/study/outlines/20171072610</outline>
+    <session>Spring 2017</session>
+    <school>B.C. Institute of Technology</school>
+    <site>http://www.bcit.ca/cas/computing/</site>
+    <license>MIT License</license>
+	
+	<!-- D2L specifric fields -->
+	<ou>362507</ou>
+    
+    <!-- An introduction, shown at the top of the course homepage -->
+    <intro>
+    </intro>
+</course>

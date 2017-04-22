@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE organizer SYSTEM "../xml/organizer.dtd">
+<!--
+Course organizer for Comp4711
+-->
+<organizer>
+    <week num="x">
+        <topic>Effective meetings &amp; brainstorming</topic>
+    </week>
+    <week num="x">
+        <topic>Team building</topic>
+    </week>
+    <week num="x">
+        <topic>Project plan</topic>
+    </week>
+    <week num="x">
+        <topic>Agile project management</topic>
+    </week>
+    <week num="x">
+        <topic>Agile project development</topic>
+    </week>
+    <week num="x">
+        <topic>Collaboration essentials</topic>
+    </week>
+    <week num="x">
+        <topic>Work breakdown</topic>
+    </week>
+    <week num="x">
+        <topic>Project build out</topic>
+    </week>
+    <week num="x">
+        <topic>Project build out 2</topic>
+    </week>
+    <week num="x">
+        <topic>Project glue</topic>
+    </week>
+    <week num="x">
+        <topic>Project glue 2</topic>
+    </week>
+    <week num="x">
+        <topic>Functional testing</topic>
+    </week>
+    <week num="x">
+        <topic>Integration</topic>
+    </week>
+    <week num="x">
+        <topic>Deployment</topic>
+    </week>
+    <week num="x">
+        <topic>Project delivery</topic>
+    </week>
+    <week num="zz">
+        <topic>REFERENCE</topic>
+    </week>
+    <week num="xx">
+        <topic>Supplementary Reading FYI</topic>
+    </week>
+</organizer>
