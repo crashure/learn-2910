@@ -1,5 +1,5 @@
 ## Course Instructors
-[Jim Parry](mailto:jim_parry@bcit.ca) and [Pope Kim](mailto:pope_kim@bcit.ca)  
+[Jim Parry](mailto:jim_parry@bcit.ca) and [Pope Kim](mailto:pkim48@bcit.ca)  
 Office hours Mon/Tue/Thu 09:00-11:00 on our slack channel
 
 
