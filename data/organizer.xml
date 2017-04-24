@@ -12,6 +12,8 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Team building</topic>
+        <lesson name="team01" icon="dothis"  survey="266872">Team agreements</lesson>
+        <tutorial name="seminar02">Project planning lab 2</tutorial>
     </week>
     <week num="x">
         <topic>Project plan</topic>
