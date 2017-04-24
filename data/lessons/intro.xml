@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Lesson 00 - In-class Only Introduction
+-->
+<lesson status="v1.0">
+     
+    <slide title="Agenda" layout="normal">
+        <ol>
+            <li>
+                <a href="#{tag1}">The Course</a>
+            </li>
+            <li>
+                <a href="#{tag2}">The Outcomes</a>
+            </li>
+            <li>
+                <a href="#{tag3}">The Schedule</a>
+            </li>
+            <li>
+                <a href="#{tag4}">The Project</a>
+            </li>
+        </ol>
+    </slide>
+
+    <slide title="1. The Course" layout="normal" tag="tag01">
+        <ul>
+            <li>Analyze, design and implement an IT project as a group, 
+                applying the core technical knowledge acquired in the program so far</li>
+            <li>Teamwork</li>
+            <li>Project planning</li>
+            <li>Project management</li>
+        </ul>
+    </slide>
+
+    <slide title="Your Mentors" layout="normal">
+        <ul>
+            <li>Jim Parry (Master Yoda)</li>
+            <li>Pope Kim (Obi-wan?)</li>
+            <li>Contact info in sidebar of course hub</li>
+        </ul>
+    </slide>
+
+    <slide title="2. The Outcomes" layout="normal" tag="tag2">
+        <div class="left">
+            <p>Determine and document project requirements</p>
+            <ul>
+                <li>identify success criteria</li>
+                <li>these are usecases</li>
+                <li>clarify ambiguities</li>
+            </ul>
+        </div>
+        <div class="right">
+            <p>Plan and schedule project work tasks</p>
+            <ul>
+                <li>identify work tasks needed to complete an unclear, possibly ambiguous project, using new technology</li>
+                <li>agile project management!</li>
+                <li>yes, out of your comfort zone</li>
+            </ul>
+        </div>
+    </slide>
+    <slide title="The Outcomes (continued)" layout="normal">
+        <div class="left">
+            <p>Work effectively with a team to meet stated tasks and milestones</p>
+            <ul>
+                <li>collaborate with your team mates</li>
+                <li>ensure participation by and consideration of all team members</li>
+                <li>allocate work fairly</li>
+                <li>manage conflicts</li>
+            </ul>
+        </div>
+        <div class="right">
+            <p>Design a system that meets the documented requirements</p>
+            <ul>
+                <li>information design</li>
+                <li>interaction design</li>
+                <li>presentation design</li>
+            </ul>
+        </div>
+    </slide>
+    <slide title="The Outcomes (finished)" layout="normal">
+        <div class="left">
+            <p>Implement a system that has been designed</p>
+            <ul>
+                <li>build it, successfully</li>
+                <li>agile project management, 4-5 iterations</li>
+            </ul>
+        </div>
+        <div class="right">
+            <p>Test and deliver a working system</p>
+            <ul>
+                <li>embrace the new technologies</li>
+                <li>be mobile friendly</li>
+                <li>play nicely with each other</li>
+            </ul>
+        </div>
+    </slide>
+
+
+    <slide title="Grading" layout="normal">
+        <p>Per the course outline:</p>        
+        <ul>
+            <li>30%: Team work - team agreement; daily process review; project review</li>
+            <li>30%: Collaboration - project plan, project prototype, functional project, project presentation; project review</li>
+            <li>40%: Online repository -  process reviews; repository inspection; project review</li>
+        </ul>
+        <p>Attendance expected, missing more than 2 labs =&gt; U</p>
+        <p>Labs: varying size teams, rubric-based assessment</p>
+    </slide>
+
+    <slide title="3. The Schedule" layout="normal" tag="tag3">
+        <p>Seminars Monday, Tuesday &amp; Thursday afternoon</p>
+        <ul>
+            <li>Monday: iteration scrum</li>
+            <li>Tuesday: tech help</li>
+            <li>Thursday: mid-iteration scrum &amp; guidance</li>
+        </ul>
+        <p>DTC-581 booked Mon/Tue/Thu 08:30-22:00 for you</p>
+        <p>Note: some collaboration activities will be done with 
+            assigned teams, different from your project.</p>
+    </slide>
+
+    <slide title="4. The Project" layout="normal" tag="tag4">
+        <ul>
+            <li>Webapp for a fast food outlet on a distant planet</li>
+            <li>Lobby: Ordering</li>
+            <li>Kitchen: Production</li>
+            <li>Office: Reporting</li>
+        </ul>
+    </slide>
+
+</lesson>

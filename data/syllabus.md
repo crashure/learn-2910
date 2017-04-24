@@ -38,7 +38,7 @@ Upon successful completion of the course, the student will be able to:
 ## Evaluation criteria
 Team work - 30% ... Team agreement; daily process review; project review    
 Collaboration tool usage - 30% ...  Deliverables: project plan, project prototype, 
-functional project, project presentation; project review
+functional project, project presentation; project review  
 Online repository - 40% -  Process reviews; repository inspection; project review
 
 On completion of each agile development iteration (beginning or end of a week), 

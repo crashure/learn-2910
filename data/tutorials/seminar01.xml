@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tutorial status="v1.0">
+    
+    <slide title="Agenda" layout="normal">
+        <ol>
+            <li>
+                <a href="#{tag1}">Effective Meetings</a>
+            </li>
+            <li>
+                <a href="#{tag2}">Brainstorming</a>
+            </li>
+        </ol>
+    </slide>
+
+    <slide title="Three Key Management Concepts" layout="normal">
+        <ul>
+            <li>Clarify goals and share them</li>
+            <li>Allow people to participate in planning how to achieve the goals</li>
+            <li>Involve people in a periodic critique or self-evaluation of the process of “how” we do our work</li>
+        </ul>
+    </slide>
+
+    <slide title="1. Effective Meetings" layout="normal" tag="tag1">
+        <ol>
+            <li>Purpose - to start the team building</li>
+            <li>Agenda – five or so points to address</li>
+            <li>Facilitator - follow agenda, stay on time, ensure everyone is listened to</li>
+            <li>Recorder - directly onto flipchart (do not copy from small notepaper)‏</li>
+            <li>Participation - listen to each other</li>
+        </ol>
+    </slide>
+
+    <slide title="Team Thoughts Exercise" layout="normal">
+        <ul>
+            <li>Individually, sentence completion (3 mins)‏</li>
+            <li>Recorder: transfer to flipchart</li>
+            <li>Collectively, discuss &amp; clarify (3 mins)‏</li>
+            <li>Individually, select hit parade (1 min)‏‏</li>
+            <li>Recorder: record choices‏</li>
+            <li>Collectively: consensus? (3 mins)‏‏</li>
+        </ul>
+    </slide>
+
+    <slide title="THINK TEAM THOUGHTS!" layout="normal">
+        <ul>
+            <li>‏The characteristics of my BEST project management experience were…</li>
+            <li>‏The characteristics of my WORST project management experience were…</li>
+            <li>The EXPERIENCE I bring to this team is…‏</li>
+            <li>‏The main thing I WANT to get from being part of this team is…</li>
+            <li>My FEELINGS about being part of this team are…‏</li>
+        </ul>
+        <img style="position:absolute; top:20%; left:80%;" src="/pix/doit.png"/>
+    </slide>
+
+    <slide title="2. What is a Project?" layout="normal" tag="tag2">
+        <ul>
+            <li>Goal oriented - has a specific end in mind from the beginning‏</li>
+            <li>Involves the coordination of interrelated activities</li>
+            <li>Has a beginning and end‏</li>
+            <li>Each project is unique‏‏</li>
+            <li>You know the above -> what about the details?</li>
+        </ul>
+    </slide>
+
+    <slide title="Brainstorming Rules!" layout="normal">
+        <ul>
+            <li>List every idea on flipchart</li>
+            <li>Do not discuss</li>
+            <li>Do not judge</li>
+            <li>Repetition is OK</li>
+            <li>Set a time limit (&amp; stick to it)‏</li>
+        </ul>
+    </slide>
+
+    <slide title="BRAINSTORM!" layout="normal">
+        <p>What to do with 291 tandem bicycles from failed ride-share startup?</p>
+        <ul>
+            <li>select facilitator (time-keeper)</li>
+            <li>‏select recorder</li>
+            <li>round-robin ideas (2 mins)</li>
+            <li>‏follow the rules‏</li>
+        </ul>
+        <img style="position:absolute; top:20%; left:80%;" src="/pix/doit.png"/>
+    </slide>
+
+    <slide title="Brainstorming Rules II" layout="normal">
+        <ul>
+            <li>Number all of the brainstormed items</li>
+            <li>Collectively: discuss &amp; clarify</li>
+            <li>Individually, jot down your 2-3 votes</li>
+            <li>Recorder: record the votes on the flipchart</li>
+            <li>Collectively: identify the winners, discuss‏</li>
+        </ul>
+    </slide>
+
+    <slide title="BRAINSTORM (Continued)!" layout="normal">
+        <p>What to do with 291 tandem bicycles from failed ride-share startup?</p>
+        <ul>
+            <li>Apply second set of rules</li>
+            <li>Identify top 3 uses suggested by your team‏</li>
+        </ul>
+        <img style="position:absolute; top:20%; left:80%;" src="/pix/doit.png"/>
+    </slide>
+
+    <slide title="Process Review" layout="normal">
+        <p>How influential do you think you have been in the discussion so far?</p>
+        <ul>
+            <li>Not at all, somewhat, faily, very</li>
+            <li>How do you feel about this?</li>
+        </ul>
+        <p>How do you see the influence distributed in the meeting?</p>
+        <ul>
+            <li>One person, a few people, mostly even, even</li>
+            <li>How do you feel about this?</li>
+        </ul>
+        <p>What could we do differently to improve the rest of the meeting?</p>
+        <img style="position:absolute; top:20%; left:80%;" src="/pix/doit.png"/>
+    </slide>
+
+    <slide title="Brainstorming Rules III" layout="normal">
+        <ul>
+            <li>Team members record their ideas on postit notes, one idea per sticker, without consulting each other</li>
+            <li>The postit notes are then shared through a “post-up”</li>
+            <li>Collectively discuss &amp; clarify, eliminating duplicates</li>
+            <li>Vote on the best ideas, striving for consensus</li>
+        </ul>
+    </slide>
+
+    <slide title="BRAINSTORM (Again)!" layout="normal">
+        <p>Two 2910 project-related questions that need addressing:</p>
+        <ul>
+            <li>What do you expect to learn through the  project?</li>
+            <li>What are the risks associated with the  project?‏</li>
+        </ul>
+        <img style="position:absolute; top:20%; left:80%;" src="/pix/doit.png"/>
+    </slide>
+ 
+    <slide title="Process Review" layout="normal">
+        <p>How influential do you think you have been in the discussion so far?</p>
+        <ul>
+            <li>Not at all, somewhat, faily, very</li>
+            <li>How do you feel about this?</li>
+        </ul>
+        <p>How do you see the influence distributed in the meeting?</p>
+        <ul>
+            <li>One person, a few people, mostly even, even</li>
+            <li>How do you feel about this?</li>
+        </ul>
+        <p>What could we do differently to improve the rest of the meeting?</p>
+        <img style="position:absolute; top:20%; left:80%;" src="/pix/doit.png"/>
+    </slide>
+
+    <slide title="Wrapup" layout="normal">
+        <p>Dropbox Submission:</p>
+        <ul>
+            <li>Results from last brainstorming session</li>
+            <li>Use text or markdown format file‏</li>
+            <li>By 16:30 today</li>
+        </ul>
+        <p>References:</p>
+        <ul>
+            <li>
+                <a href="http://www.personalstrengths.ca/">Personal Strengths Publishing</a>
+            </li>
+            <li>
+                <a href="https://www.amazon.ca/Rapid-Problem-Solving-Post-Notes/dp/1555611427">Rapid Problem Solving with Post-it Notes</a>, 
+                by <a href="http://syque.com">David Straker</a>
+            </li>
+        </ul>
+    </slide>
+    
+</tutorial>

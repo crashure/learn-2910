@@ -6,6 +6,9 @@ Course organizer for Comp4711
 <organizer>
     <week num="x">
         <topic>Effective meetings &amp; brainstorming</topic>
+        <lesson name="intro" >Course Introduction</lesson>
+        <tutorial name="seminar01">Project planning lab 1</tutorial>
+        <assignment name="project">The Project</assignment>
     </week>
     <week num="x">
         <topic>Team building</topic>
