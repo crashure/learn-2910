@@ -21,6 +21,8 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Project plan</topic>
+        <assignment name="sample-projectplan1" icon="read" >Sample project plan #1</assignment>
+        <assignment name="sample-projectplan2" icon="read" >Sample project plan #2</assignment>
     </week>
     <week num="x">
         <topic>Agile project management</topic>
