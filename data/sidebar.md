@@ -20,3 +20,6 @@ Office hours Mon/Tue/Thu 09:00-11:00 on our slack channel
 ##Course Related
 [Course outline]({outline})  
 [Slack team](https://acit2910.slack.com) - for notifications & FAQ
+
+##The Project
+[The project](/display/assignment/project)  
