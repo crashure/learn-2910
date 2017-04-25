@@ -24,7 +24,7 @@ Perform a process review after the first, third and sixth brainstorming sessions
 - Results from last process review
 
 Use text or markdown format file‏s.  
-By 16:30 today
+By 17:30 today
 
 ##References / Resources
 

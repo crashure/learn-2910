@@ -7,12 +7,16 @@ Course organizer for Comp4711
     <week num="x">
         <topic>Effective meetings &amp; brainstorming</topic>
         <lesson name="intro" >Course Introduction</lesson>
+        <lesson name="entrance" icon="read" >Entrance survey results</lesson>
         <tutorial name="seminar01">Project planning lab 1</tutorial>
         <assignment name="project">The Project</assignment>
     </week>
     <week num="x">
         <topic>Team building</topic>
         <lesson name="team01" icon="dothis"  survey="266872">Team agreements</lesson>
+        <lesson name="session02" icon="read" >Survey results - team agreement</lesson>
+        <assignment name="sample-teamagreement1" icon="read" >Sample team agreement #1</assignment>
+        <assignment name="sample-teamagreement2" icon="read" >Sample team agreement #2</assignment>
         <tutorial name="seminar02">Project planning lab 2</tutorial>
     </week>
     <week num="x">
