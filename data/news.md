@@ -1,5 +1,3 @@
-**Session 2** *(Tue Apr 25, 09:30)*   
+**Session 3** *(Wed Apr 65, 16:30)*   
 
-I have fixed the email addresses allowed for automatic signup for our slack channel :)
-
-More helpful material posted, for today.
+Online reading for session 3 has been posted, hopefully with the correct link for the survey!
