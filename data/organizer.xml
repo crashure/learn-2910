@@ -13,7 +13,7 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Team building</topic>
-        <lesson name="team01" icon="dothis"  survey="266872">Team agreements</lesson>
+        <lesson name="team01" icon="dothis">Team agreements</lesson>
         <lesson name="session02" icon="read" >Survey results - team agreement</lesson>
         <assignment name="sample-teamagreement1" icon="read" >Sample team agreement #1</assignment>
         <assignment name="sample-teamagreement2" icon="read" >Sample team agreement #2</assignment>
@@ -21,6 +21,7 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Project plan</topic>
+        <lesson name="team02" icon="dothis"  survey="288191">Project planning</lesson>
         <assignment name="sample-projectplan1" icon="read" >Sample project plan #1</assignment>
         <assignment name="sample-projectplan2" icon="read" >Sample project plan #2</assignment>
     </week>
