@@ -26,6 +26,7 @@ Course organizer for Comp4711
         <assignment name="sample-projectplan1" icon="read" >Sample project plan #1</assignment>
         <assignment name="sample-projectplan2" icon="read" >Sample project plan #2</assignment>
         <tutorial name="seminar03">Project planning lab 3</tutorial>
+        <assignment name="projectfaq">The Project FAQ</assignment>
     </week>
     <week num="x">
         <topic>Agile project management</topic>

@@ -23,3 +23,4 @@ Office hours Mon/Tue/Thu 09:00-11:00 on our slack channel
 
 ##The Project
 [The project](/display/assignment/project)  
+[Project FAQ](/display/assignment/projectfaq)  
