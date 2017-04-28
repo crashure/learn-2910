@@ -3,6 +3,20 @@ ACIT2910 - BCIT - Spring 2017
 
 My answers are italicized below.
 
+### How to collaborate or get feedback?
+
+_If you have a Trello question, tagging us on a Trello card triggers an email to us which links right back to the card.  
+If you have a PivotalTracker question, same thing - tag us on PT.  
+If you have a Github question, tag us in a new issue or in the relevant issue thread._
+
+_Questions that don't fit above would probably suit Slack or email.
+If it is a question about dropbox feedback, knowing the relevant D2L group makes things easier.
+If it is a more general question, and would benefit the group, then ask it in the general channel on slack, or email me, 
+and I will make sure the question and answer find their way to the FAQ._
+
+_Do **not** send emails via D2L and expect a response. The D2L "mail" system is for outgoing notifications only,
+and it will not accept incoming email._
+
 ### Github usage?
 
 My team have been researching on how to deploy NodeJS applications on Github and so far, the answer is, it is not possible because Github only hosts static HTML pages. 
