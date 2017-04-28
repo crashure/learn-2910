@@ -9,3 +9,6 @@ I have added a project FAQ in the sidebar.
 
 **Lunch Bytes Series - Fortinet** Thu May 4, 12:15-13:15 in DTC-576  
 Fortinet is giving a presentation on the network security industry and job opportunities.
+
+**Temporary Facility Closure** Wed May 24  
+The 5th floor learning space(s) will be unavailable all day May 24th, for furniture delivery and installation.
