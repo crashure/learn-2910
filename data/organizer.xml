@@ -21,7 +21,7 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Project plan</topic>
-        <lesson name="team02" icon="dothis"  survey="288191">Project planning</lesson>
+        <lesson name="team02" icon="dothis">Project planning</lesson>
         <lesson name="session03" icon="read" >Survey results - planning</lesson>
         <assignment name="sample-projectplan1" icon="read" >Sample project plan #1</assignment>
         <assignment name="sample-projectplan2" icon="read" >Sample project plan #2</assignment>
@@ -30,6 +30,7 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Agile project management</topic>
+       <lesson name="agile01" icon="dothis"  survey="288617">Agile project management</lesson>
     </week>
     <week num="x">
         <topic>Agile project development</topic>
