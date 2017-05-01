@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson status="v1.0">
+     
+    <slide title="1. Sprints" layout="normal">
+        <a href="http://www.dummies.com/careers/project-management/the-function-of-the-scrum-and-sprint-within-an-agile-project/">
+            <img class="scale" src="/pix/agile/process.png"/>
+        </a>
+    </slide>
+    <slide title="2. Agile Metrics" layout="normal">
+        <a href="https://www.atlassian.com/agile/metrics">
+            <img class="scale" src="/pix/agile/metrics01"/>
+        </a>        
+    </slide>
+    <slide title="3. Kanban" layout="normal">
+        <a href="https://en.wikipedia.org/wiki/Kanban_board">
+            <img class="scale" src="/pix/agile/simple-kanban-board.jpg"/>
+        </a>
+    </slide>
+    <slide title="3b. Also Kanban" layout="normal">
+        <a href="http://kanbanblog.com/explained/">
+            <img class="scale" src="/pix/agile/Sample_Kanban_Board.png"/>
+        </a>
+    </slide>
+    <slide title="4. Kanban + Scrum" layout="normal">
+        <div class="left">
+            <a href="http://www.agileweboperations.com/scrum-vs-kanban">
+                <img class="scale" src="/pix/agile/kanban.png"/>
+            </a>
+        </div>
+        <div class="right">
+            <ul>
+                <li>Scrum has iterations, Kanban is continuous</li>
+                <li>Scrum has deliverables with each iteration, Kanban is continuous</li>
+                <li>Scrum driven by velocity, Kanban by cycle time</li>
+                <li>Scrum *is* agile, Kanban is about visualization</li>
+            </ul>
+        </div>
+    </slide>
+
+</lesson>
+
+
+

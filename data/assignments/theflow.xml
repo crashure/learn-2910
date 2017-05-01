@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson status="v1.0">
+     
+    <slide title="Ordering: Place your order" layout="normal">
+             <img class="scale" src="/pix/fastfood/menu2.jpg"/>
+    </slide>
+    <slide title="Ordering: Wait for it" layout="normal">
+             <img class="scale" src="/pix/fastfood/mcdonald3.jpg"/>
+    </slide>
+    <slide title="Kitchen: Cook away" layout="normal">
+             <img class="scale" src="/pix/fastfood/mcdonald3.jpg"/>
+    </slide>
+    <slide title="Kitchen: Whathca got?" layout="normal">
+             <img class="scale" src="/pix/fastfood/mc1.jpg"/>
+    </slide>
+ 
+</lesson>
+
+
+

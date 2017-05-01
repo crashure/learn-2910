@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson status="v1.1">
+     
+    <slide title="Storyboard Demo" layout="normal">
+        <p>This slideshow presents a run-through of a small agile
+            project, using PivotalTracker.</p>
+        <p>It is not the only way to handle this - it is
+            intended to illustrate one way that an agile project
+            might be managed.</p>
+        <p>We will be doing this in lab today - wait until then
+            to try it!</p>
+    </slide>
+
+    <slide title="Start" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker01.png"/>
+    </slide>
+    <slide title="Add your tasks" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker02.png"/>
+    </slide>
+    <slide title="They end up in the Icebox" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker03.png"/>
+    </slide>
+    <slide title="Prioritize Them" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker04.png"/>
+    </slide>
+    <slide title="Add Epics to Group Them" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker05.png"/>
+    </slide>
+    <slide title="Drag Stories onto Epics" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker06.png"/>
+    </slide>
+    <slide title="Check Out an Epic" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker07.png"/>
+    </slide>
+    <slide title="Don't Need the Icebox" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker08.png"/>
+    </slide>
+    <slide title="Start Work" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker09.png"/>
+    </slide>
+    <slide title="Keep Working (teammate)" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker10.png"/>
+    </slide>
+    <slide title="Finish Something" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker11.png"/>
+    </slide>
+    <slide title="Keep Working (&amp; finishing)" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker12.png"/>
+    </slide>
+    <slide title="Deliver Finished Stories (teammate?)" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker13.png"/>
+    </slide>
+    <slide title="Client Accepts or Rejects" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker14.png"/>
+    </slide>
+    <slide title="Note Epic Progress" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker15.png"/>
+    </slide>
+    <slide title="Ooh – Finished an Epic" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker16.png"/>
+    </slide>
+    <slide title="What About Rejects?" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker17.png"/>
+    </slide>
+    <slide title="And Then You 'Restart' That One" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker18.png"/>
+    </slide>
+    <slide title="And Fix It" layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker19.png"/>
+    </slide>
+    <slide title="All Done " layout="normal">
+        <img class="scale" src="/pix/agile_demo/tracker20.png"/>
+    </slide>
+
+    <slide title="Story Types" layout="normal">
+        <div class="left">
+        <img class="scale" src="/pix/agile_demo/tracker21.png"/>
+        </div>
+        <div class="right">
+            <p>These identify the type of work in a task</p>
+            <ul>
+                <li>Feature</li>
+                <li>Bug</li>
+                <li>Chore</li>
+                <li>Milestone</li>
+            </ul>
+        </div>
+    </slide>
+    <slide title="Story Points" layout="normal">
+        <div class="left">
+        <img class="scale" src="/pix/agile_demo/tracker22.png"/>
+        </div>
+        <div class="right">
+            <p>These identify the "size" of a task</p>
+            <ul>
+                <li>0 for bugs, milestones</li>
+                <li>1 for &lt; 4 hours</li>
+                <li>2 for ~ 1 day</li>
+                <li>3 for ~ 2 days</li>
+            </ul>
+        </div>
+    </slide>
+    <slide title="Velocity" layout="normal">
+        <div class="left">
+        <img class="scale" src="/pix/agile_demo/tracker23.png"/>
+        </div>
+        <div class="right">
+            <p>Story points are used to calculate velocity</p>
+            <ul>
+                <li>Team velocity per iteration</li>
+                <li>Member pair: 4 points x 4 days = 16 points</li>
+                <li>Add 20% buffer </li>
+                <li>Leads to expected 20 points per team pair per iteration:
+                *this* is what the backlog + current tasks should add up 
+                to at the beginning of an iteration</li>
+                <li>Tracker will adjust</li>
+            </ul>
+        </div>
+    </slide>
+
+</lesson>
+
+
+
