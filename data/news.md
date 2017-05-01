@@ -1,6 +1,6 @@
-**Session 4** *(Sun Apr 30, 02:30)*   
-Reading and survey for Monday have been posted.  
-Examples and elaborations coming!
+**Session 4** *(Mon May 1, 13:10)*   
+Ready to roll for today.
+Let the fun begin!!
 
 **Project** *(Fri Apr 27 16:00)*  
 I have updated the project FAQ in the sidebar.

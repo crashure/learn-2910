@@ -34,9 +34,10 @@ Course organizer for Comp4711
         <lesson name="session04" icon="read" >Survey results - agile management</lesson>
         <lesson name="agile03" >Agile management in a nutshell</lesson>
         <lesson name="agile02">Storyboard demo with PivotalTracker</lesson>
-        <lab name="lab04a" active="n">PivotalTracker Walkthrough</lab>
-        <lab name="lab04b" active="n">Team Repository Setup</lab>
-        <lab name="lab04c" active="n">Team Tracker Setup</lab>
+        <tutorial name="tracker">PivotalTracker Walkthrough</tutorial>
+        <lab name="repo-setup">Team Repository Setup</lab>
+        <lab name="tracker-setup">Team Tracker Setup</lab>
+        <assignment name="theflow">Project Elaboration</assignment>
     </week>
     <week num="x">
         <topic>Agile project development</topic>
