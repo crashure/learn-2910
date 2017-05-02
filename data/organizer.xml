@@ -30,7 +30,7 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Agile project management</topic>
-        <lesson name="agile01" icon="dothis"  survey="288617">Agile project management</lesson>
+        <lesson name="agile01" icon="dothis">Agile project management</lesson>
         <lesson name="session04" icon="read" >Survey results - agile management</lesson>
         <lesson name="agile03" >Agile management in a nutshell</lesson>
         <lesson name="agile02">Storyboard demo with PivotalTracker</lesson>
@@ -42,7 +42,9 @@ Course organizer for Comp4711
     <week num="x">
         <topic>Agile project development</topic>
         <lesson name="gitflow01" icon="dothis"  survey="288765">Gitflow workflow concepts</lesson>
-        <lesson name="gitflow02" icon="read"  active="n">Gitflow techniques</lesson>
+        <lesson name="session05" icon="read" >Survey results - Gitflow</lesson>
+        <lesson name="gitflow02" icon="read">Gitflow techniques</lesson>
+        <lab name="sad-story">Practicing gitflow</lab>
     </week>
     <week num="x">
         <topic>Collaboration essentials</topic>
