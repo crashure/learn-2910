@@ -1,4 +1,4 @@
-# Resources for COMP4711
+# Resources for ACIT2910
 
 ## Editor
 [NetBeans 8](https://netbeans.org/downloads/) One programming IDE  
@@ -16,3 +16,8 @@
 [GitKraken](https://www.gitkraken.com/) The new kid on the block  
 [SourceTree](https://www.sourcetreeapp.com/) GIT IDE for Windows or Mac  
 [GitHub Education](https://education.github.com/)  They even have a GitHub [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+[Trello]() to share ideas and designs with your team  
+
+## Agile
+[PivotalTracker](https://www.pivotaltracker.com/) To manage tasks & show your storyboard  
+[Zapier](https://zapier.com/zapbook/github/pivotal-tracker/) For integrations between Github & PivotalTracker  

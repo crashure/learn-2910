@@ -1,9 +1,6 @@
-**Session 4** *(Mon May 1, 13:10)*   
-Ready to roll for today.
-Let the fun begin!!
-
-A good page with Pivotal to Github zaps :)  
-https://zapier.com/zapbook/github/pivotal-tracker/
+**Session 5** *(Mon May 1, 21:45)*   
+Reading for tomorrow posted ... sorry it is so late!  
+I have set the survey closing for 09:00 Tues morning, to give you a chance to ask questions.
 
 **Project** *(Fri Apr 27 16:00)*  
 I have updated the project FAQ in the sidebar.
