@@ -401,15 +401,128 @@ Both of my PRs show on the list, and both are mergeable.
 
 ## Resolve Merge Conflict
 
-If the older PR (for round 2) is merged, then the new PR
-(for round 3) is still mergeable, because they applied to separate files
-and there were no conflicts.
+Oh no! Another PR was accepted, for the same file that our
+original one changed, and we now have a conflict!!
 
-If another team member created a change to the same file as the
-third PR, and if that one was merged first, then
-my PR would have a conflict.
+<img class="scale" src="/pix/gitflow/Screenshot-23.png"/>
 
-I will add the walkthrough section for that at a civilized hour in the morning :-/
+Let's try to fix this by re-synching our repo.
+
+    >git checkout develop
+    Switched to branch 'develop'
+    Your branch is up-to-date with 'origin/develop'.
+    >git pull upstream develop
+    remote: Counting objects: 5, done.
+    remote: Compressing objects: 100% (5/5), done.
+    remote: Total 5 (delta 1), reused 0 (delta 0), pack-reused 0
+    Unpacking objects: 100% (5/5), done.
+    From https://github.com/jedi-academy/sad-story
+     * branch            develop    -> FETCH_HEAD
+       a856567..8d4bb4e  develop    -> upstream/develop
+    Updating a856567..8d4bb4e
+    Fast-forward
+     hoth.txt     | 13 +++++++------
+     tatooine.txt |  7 ++++++-
+     2 files changed, 13 insertions(+), 7 deletions(-)
+    >git push origin develop
+    Counting objects: 5, done.
+    Delta compression using up to 8 threads.
+    Compressing objects: 100% (5/5), done.
+    Writing objects: 100% (5/5), 965 bytes | 0 bytes/s, done.
+    Total 5 (delta 2), reused 0 (delta 0)
+    remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+    To https://github.com/jim-parry/sad-story.git
+       a856567..8d4bb4e  develop -> develop
+    >git checkout lab/round3
+    Switched to branch 'lab/round3'
+    >git merge develop
+    Auto-merging tatooine.txt
+    CONFLICT (content): Merge conflict in tatooine.txt
+    Automatic merge failed; fix conflicts and then commit the result.
+
+Oh oh - the conflicting changes are now recorded in our story,
+and we need to change them. This is what the conflicted part of our story looks like
+
+    <<<<<<< HEAD
+    Unfortunately, someone didn't follow lab directions, and Jill is going to be horribly
+    confused by the two fortunatelys in a row.
+
+    Fortunately, she can take good luck in stride, so she seemed ok.
+    =======
+    Unfortunately, James T Kirk materialized onto the slope beside them, and he was no help.
+    He kept muttering "Beam me up, Scotty - we need Bones here, not me."
+
+    Fortunately, Jill's sister was strong in the ways of the force, and could
+    resist the pull of the USS Enterprise's transporter beam.
+    >>>>>>> develop
+
+There are two conflicting sections. We can choose to keep one, or the other, or both.
+Either way, we decide, and we need to remove the conflict markers before
+continuing.
+
+I chose to keep both, leaving...
+
+    Unfortunately, someone didn't follow lab directions, and Jill is going to be horribly
+    confused by the two fortunatelys in a row.
+
+    Fortunately, she can take good luck in stride, so she seemed ok.
+
+    Unfortunately, James T Kirk materialized onto the slope beside them, and he was no help.
+    He kept muttering "Beam me up, Scotty - we need Bones here, not me."
+
+    Fortunately, Jill's sister was strong in the ways of the force, and could
+    resist the pull of the USS Enterprise's transporter beam.
+
+So, save & re-commit this, and re-push it to my repo.
+
+    >git add .
+    >git commit -m "Fix conflict in tatooine"
+
+    You need a passphrase to unlock the secret key for
+    user: "Jim Parry (aka Master Yoda) <jim_parry@bcit.ca>"
+    4096-bit RSA key, ID 0775AD5B, created 2016-06-07
+
+    [lab/round3 a8f460f] Fix conflict in tatooine
+    >git push origin lab/round3
+    Counting objects: 3, done.
+    Delta compression using up to 8 threads.
+    Compressing objects: 100% (3/3), done.
+    Writing objects: 100% (3/3), 1.13 KiB | 0 bytes/s, done.
+    Total 3 (delta 2), reused 0 (delta 0)
+    remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+    To https://github.com/jim-parry/sad-story.git
+       cffdf0a..a8f460f  lab/round3 -> lab/round3
+
+Now, when we check our PR again, on the team repo, ...
+
+<img class="scale" src="/pix/gitflow/Screenshot-24.png"/>
+
+It is mergeable again, yay!
+
+Merge it and we are good to go!
+
+Don't forget to resynch your repository, so it is even with the team one!
+
+    >git checkout develop
+    Switched to branch 'develop'
+    Your branch is up-to-date with 'origin/develop'.
+    >git pull upstream develop
+    remote: Counting objects: 1, done.
+    remote: Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
+    Unpacking objects: 100% (1/1), done.
+    From https://github.com/jedi-academy/sad-story
+     * branch            develop    -> FETCH_HEAD
+       8d4bb4e..07666b9  develop    -> upstream/develop
+    Updating 8d4bb4e..07666b9
+    Fast-forward
+     tatooine.txt | 7 +++++++
+     1 file changed, 7 insertions(+)
+    >git push origin develop
+    Counting objects: 1, done.
+    Writing objects: 100% (1/1), 298 bytes | 0 bytes/s, done.
+    Total 1 (delta 0), reused 0 (delta 0)
+    To https://github.com/jim-parry/sad-story.git
+       8d4bb4e..07666b9  develop -> develop
 
 ##Wrapup
 

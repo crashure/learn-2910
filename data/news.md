@@ -1,4 +1,4 @@
-**Session 5** *(Wed May 3, too early)*   
+**Session 5** *(Wed May 3, 08:40)*   
 I have put together a gitflow walkthrough, in response to the
 survey after class Tues. It is in "Week 6" below.
 
