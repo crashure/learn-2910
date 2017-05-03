@@ -1,6 +1,6 @@
-**Session 5** *(Mon May 1, 21:45)*   
-Reading for tomorrow posted ... sorry it is so late!  
-I have set the survey closing for 09:00 Tues morning, to give you a chance to ask questions.
+**Session 5** *(Wed May 3, too early)*   
+I have put together a gitflow walkthrough, in response to the
+survey after class Tues. It is in "Week 6" below.
 
 **Project** *(Fri Apr 27 16:00)*  
 I have updated the project FAQ in the sidebar.
