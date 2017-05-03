@@ -1,6 +1,10 @@
-**Session 5** *(Wed May 3, 08:40)*   
+**Session 5** *(Wed May 3, 11:40)*   
 I have put together a gitflow walkthrough, in response to the
 survey after class Tues. It is in "Week 6" below.
+
+I have also added a Gitflow walkthrough using NetBeans.
+It is the same as the one above, but using an IDE instead of the
+bash shell.
 
 **Project** *(Fri Apr 27 16:00)*  
 I have updated the project FAQ in the sidebar.
