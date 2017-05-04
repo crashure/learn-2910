@@ -51,6 +51,8 @@ Course organizer for Comp4711
         <tutorial name="gitflow03" icon="read">Gitflow walkthrough</tutorial>
         <tutorial name="gitflow03b" icon="read">Gitflow walkthrough with NetBeans</tutorial>
         <lesson name="session06" icon="read" >Survey results - Gitflow techniques</lesson>
+        <lesson name="scrum" icon="read">Scrum</lesson>
+        <lesson name="design" icon="read">Agile Design</lesson>
     </week>
     <week num="x">
         <topic>Work breakdown</topic>
