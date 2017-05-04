@@ -50,6 +50,7 @@ Course organizer for Comp4711
         <topic>Collaboration essentials</topic>
         <tutorial name="gitflow03" icon="read">Gitflow walkthrough</tutorial>
         <tutorial name="gitflow03b" icon="read">Gitflow walkthrough with NetBeans</tutorial>
+        <lesson name="session06" icon="read" >Survey results - Gitflow techniques</lesson>
     </week>
     <week num="x">
         <topic>Work breakdown</topic>

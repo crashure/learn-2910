@@ -1,13 +1,16 @@
-**Session 5** *(Wed May 3, 11:40)*   
-I have put together a gitflow walkthrough, in response to the
-survey after class Tues. It is in "Week 6" below.
+**Session 5-6** *(Thu May 4, 02:30)*   
+I have put together two gitflow walkthroughs, in response to the
+survey after class Tues. One uses the bash shell, and one uses NetBeans/
 
-I have also added a Gitflow walkthrough using NetBeans.
-It is the same as the one above, but using an IDE instead of the
-bash shell.
+In class today: finish the gitflow exercise we started last class,
+and hold a practice scrum with either Pope or myself.
 
-**Project** *(Fri Apr 27 16:00)*  
-I have updated the project FAQ in the sidebar.
+**Project** *(Thu May 4 02:30)*  
+I took a quick look through all of your Trello boards.  
+Some of the groups are using them for brainstorming, and to
+record non-code issues or decisions (eg design) - good to see.  
+Some don't appear to have been visited since last week. Are you
+using a different tool to share non-code documents?
 
 **Lunch Bytes Series - Fortinet** Thu May 4, 12:15-13:15 in DTC-576  
 Fortinet is giving a presentation on the network security industry and job opportunities.  
