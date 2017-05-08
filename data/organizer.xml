@@ -41,7 +41,7 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Agile project development</topic>
-        <lesson name="gitflow01" icon="dothis"  survey="288765">Gitflow workflow concepts</lesson>
+        <lesson name="gitflow01" icon="dothis">Gitflow workflow concepts</lesson>
         <lesson name="session05" icon="read" >Survey results - Gitflow</lesson>
         <lesson name="gitflow02" icon="read">Gitflow techniques</lesson>
         <lab name="sad-story">Practicing gitflow</lab>
@@ -57,6 +57,7 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Work breakdown</topic>
+        <lab name="iteration1-scrum">Let's see how you are doing!</lab>
     </week>
     <week num="x">
         <topic>Project build out</topic>

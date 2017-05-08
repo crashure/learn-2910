@@ -1,12 +1,10 @@
-**Session 5-6** *(Fri May 5, 09:10)*   
-I did an [analysis](/display/lab/sad-story-results) of the Sad Story repo :-/
+**Session 7** *(Mon May 8, 10:00)*   
+Pope and I will be meeting with each team this afternoon (four each), to
+participate in an end of iteration scrum.
+I have added a "lab" writeup to guide what you should put together.
 
-**Project** *(Thu May 4 02:30)*  
-I took a quick look through all of your Trello boards.  
-Some of the groups are using them for brainstorming, and to
-record non-code issues or decisions (eg design) - good to see.  
-Some don't appear to have been visited since last week. Are you
-using a different tool to share non-code documents?
+Before class today, meet as a team and answer the lab questions.
+
 
 **Temporary Facility Closure** Wed May 24  
 The 5th floor learning space(s) will be unavailable all day May 24th, for furniture delivery and installation.
