@@ -26,6 +26,14 @@ Specifically, we will talk about four kinds of testing:
 - Functional testing
 - Experience testing
 
+##Testing - Who Needs It?
+
+A $1000000 killer product ...
+- without code coverage, only $100000
+- without unit testing, $10000
+- without comments, $1000
+- without UX, $100
+
 ##Error handling
 
 Error handling refers to "hardening" your code so that it doesn't break
@@ -104,11 +112,6 @@ Code coverage is a measure of how much of your code is unit tested.
 
 It is one of the KPIs for the quality of a software project.
 
-A $1000000 killer product ...
-- without code coverage, only $100000
-- without unit testing, $10000
-- without comments, $1000
-- without UX, $100
 
 <img class="scale" src="/pix/testing/test09.gif"/>
 
