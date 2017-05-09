@@ -60,10 +60,12 @@ Course organizer for Comp4711
         <lab name="iteration1-scrum">Let's see how you are doing!</lab>
     </week>
     <week num="x">
-        <topic>Project build out</topic>
+        <topic>Testing</topic>
+        <lesson name="testing" icon="dothis">Testing.Like.A.Boss</lesson>
+        <lab name="continuous">Continuous integration</lab>
     </week>
     <week num="x">
-        <topic>Project build out 2</topic>
+        <topic>Project build out</topic>
     </week>
     <week num="x">
         <topic>Project glue</topic>
