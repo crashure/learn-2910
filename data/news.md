@@ -1,15 +1,16 @@
-**Session 8** *(Tue May 9, 10:20)*   
-My original schedule called for "Project build out" as the theme for session 8.
-That is being deferred until later, because we **really** need to talk
-about testing and some sort of test plan. That is a topic/theme
-that will influence how you build your project out!
+**Session 9** *(Thu May 11, 00:15)*  
+I am editing the lab writeup and screenshots, possibly at the very moment
+you are reading this! I will post it when ready, and open a survey for
+you to let me know what, if anything, you would like me to address
+at the beginning of our class today, before diving into the lab.
 
-I have posted a lesson and an accompanying lab. 
-I was hoping to have the lesson ready much earlier, with a survey so you could
-ask questions, but I ended up redoing what I had in mind, pretty much from scratch :-/
+I have also posted a reading for you - my approach to building out
+a project. There are no expectations or changes for your project
+that would arise from it ... it is more of a _campfire story_
+that I hope you will find informative.
 
-I will field questions in class, and today will be more "traditional", with an opening 
-lecture.
+You think you've got it bad?
+http://www.commitstrip.com/en/2017/05/09/which-is-worse/
 
 **Temporary Facility Closure** Wed May 24  
 The 5th floor learning space(s) will be unavailable all day May 24th, for furniture delivery and installation.
