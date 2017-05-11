@@ -66,7 +66,7 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Project build out</topic>
-        <lab name="tracker" survey="xxxxxx" active="n">Two-way integration</lab>
+        <lab name="tracker" survey="289792">Two-way integration</lab>
         <lesson name="buildout" icon="read">Project build out</lesson>
     </week>
     <week num="x">
