@@ -66,11 +66,12 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Project build out</topic>
-        <lab name="tracker" survey="289792">Two-way integration</lab>
+        <lab name="tracker">Two-way integration</lab>
         <lesson name="buildout" icon="read">Project build out</lesson>
     </week>
     <week num="x">
-        <topic>Project glue</topic>
+        <topic>Project glued</topic>
+        <lab name="iteration2-scrum" survey="290099">Let's see how you are doing!</lab>
     </week>
     <week num="x">
         <topic>Project glue 2</topic>
