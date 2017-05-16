@@ -74,19 +74,24 @@ Course organizer for Comp4711
         <lab name="iteration2-scrum" survey="290099">Let's see how you are doing!</lab>
     </week>
     <week num="x">
-        <topic>Project glue 2</topic>
+        <topic>Functional testing</topic>
+        <lab name="session11" >Functional testing</lab>
     </week>
     <week num="x">
-        <topic>Functional testing</topic>
+        <topic>Loose Ends</topic>
+        <lab name="session12" >Testing buildout (not ready)</lab>
     </week>
     <week num="x">
         <topic>Integration</topic>
+        <lab name="session13" >Iteration 3 scrum (not ready)</lab>
     </week>
     <week num="x">
-        <topic>Deployment</topic>
+        <topic>Bug bounty attacks</topic>
+        <lab name="session14" >Open for Business (not ready)</lab>
     </week>
     <week num="x">
-        <topic>Project delivery</topic>
+        <topic>Project presentations</topic>
+        <lab name="session15" >Final Presentation (not ready)</lab>
     </week>
     <week num="zz">
         <topic>REFERENCE</topic>
