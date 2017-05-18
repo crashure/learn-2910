@@ -32,9 +32,9 @@ The travis-ci for trivial only unit testing is kind of pointless, and should pro
 
 ## Functional Testing
 
-Four of the teams have at least one functional test in their repo.
-A fifth team gave the notion lip service, but there is a "functional
-test" in their repo. The last three teams have nothing for this.
+Most of the teams have at least one functional test in their repo.
+One team gave the notion lip service, but there is a "functional
+test" in their repo. Some of the teams didn't complete this :(
 
 From looking at your code, I am convinced that you **NEED** functional
 testing, if you are have reasonable odds of completing the app!
