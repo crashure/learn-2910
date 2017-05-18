@@ -3,13 +3,12 @@ ACIT2910 - BCIT - Spring 2017
 
 ##Goal
 
-This will be the laster end-of-iteration scrum.
+This will be the last end-of-iteration scrum.
 
-We want to help you with project completion.
-
-#Details to follow
+We will keep it brief, so as to help you with project completion,
+rather than detract from it.
 
 ##Submission
 
 One member of each team should add a readme note in the session 13 dropbox,
-with your scrum report addressing the above.
+with your scrum report for the end of iteration 3.

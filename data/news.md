@@ -1,5 +1,5 @@
-**Session 11** *(Tue May 15, 10:00)*  
-Today's lab writeup is complete. No survey to complete,
+**Session 12** *(Thu May 18, 01:00)*  
+Thursday's lab writeup is complete. No survey to complete,
 just fun, fun, fun!
 
 

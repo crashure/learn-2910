@@ -79,19 +79,19 @@ Course organizer for Comp4711
     </week>
     <week num="x">
         <topic>Loose Ends</topic>
-        <lab name="session12" >Testing buildout (not ready)</lab>
+        <lab name="session12" >Testing buildout</lab>
     </week>
     <week num="x">
         <topic>Integration</topic>
-        <lab name="session13" >Iteration 3 scrum (not ready)</lab>
+        <lab name="session13" >Iteration 3 scrum</lab>
     </week>
     <week num="x">
         <topic>Bug bounty attacks</topic>
-        <lab name="session14" >Open for Business (not ready)</lab>
+        <lab name="session14" >Open for Business</lab>
     </week>
     <week num="x">
         <topic>Project presentations</topic>
-        <lab name="session15" >Final Presentation (not ready)</lab>
+        <lab name="session15" >Final Presentation</lab>
     </week>
     <week num="zz">
         <topic>REFERENCE</topic>
