@@ -1,7 +1,6 @@
-**Session 12** *(Thu May 18, 01:00)*  
-Thursday's lab writeup is complete. No survey to complete,
-just fun, fun, fun!
+**Session 14** *(Wed May 24, 11:20)*  
+First attack tomorrow (Thurs) 13:30; details 5 minutes before then :-/
 
-
-**Temporary Facility Closure** Wed May 24  
-The 5th floor learning space(s) will be unavailable all day May 24th, for furniture delivery and installation.
+A reminder that we will be having company ... Patricia Hajdu (Federal Minister of Employment, 
+Workforce Development and Labour) and Kathy Kinloc (BCIT President). No dresscode,
+but please don't dress like you should be standing on the corner of Dunsmuir & Seymour :-/
