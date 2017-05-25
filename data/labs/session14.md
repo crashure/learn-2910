@@ -15,7 +15,7 @@ The team whose "business" is to be open and available will be advised
 
 In preparation, submit a readme, before class, with the link to your deployed app,
 to the session14 dropbox.
-I will post that in the organizer (on this page), one team at a time, when we are ready to "go".
+I will post that in the organizer (in the "news") or else on our Slack channel, one team at a time, when we are ready to "go".
 
 Each class member who is not part of the "open" app team should visit
 the site and place an order or two. I suggest one simple order (2 or 3 items)
@@ -24,12 +24,20 @@ and one you think could break the app.
 ##Bug Bounties
 
 If you find a bug in the app you are testing, report it, using
-a process I have yet to determine and announce.
+the "bug reports" dropbox. I will filter those by time range, so we know which
+app they apply to. Bug reports will be forwarded to the team(s) affected.
 
 Each distinct bug will result in a (very) small points bounty,
 awarded to the first student to report the bug, and "paid" for
 by the team whose app broke. The awarded bounty is individual, not
 for a team.
+
+### Bug reports
+
+For each, identify the kiosk (team) targetted, the URL where the bug is evidenced, 
+a description of the problem you encountered, and a screenshot as evidence.
+
+Put these into a suitable folder and submit a zip of it.
 
 ##Session Timeline
 
