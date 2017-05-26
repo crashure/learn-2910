@@ -1,4 +1,14 @@
-**Session 14** Fri May 26, 02:00)*  
+**Session 15** *(Fri May 26, 10:00)*  
+
+Don't forget to submit your presentations to the session 15 dropbox :)
+
+I will be posting (on Slack or D2L) a self-criqitue worksheet for each
+team to complete today, and there will be dropbox for it.
+
+We will put some time aside this afternoon for you to complete course
+evaluations too.
+
+**Session 14** *(Fri May 26, 02:00)*  
 
 I have gone through the survey results and bug reports, and found some fascinating results:
 
