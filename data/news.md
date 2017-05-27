@@ -34,3 +34,12 @@ needs to identify what you were doing when this happened; this was explained
 in the session writeup.
 - self-reported bugs not appropriate
 - 27 bugs awarded, paid for at 0.5 marks each, out of the session 14 grades.
+
+**Clarification**
+
+There were 53 "bugs" reported. A number of those were not helpful, unclear, or
+not deemed a "bug". Others were duplicates, and the first to report a bug was awarded
+the bounty for it.
+
+I forgot to put the spreadsheet with all of the reports onto my laptop, but have it here at my fingertips
+if you have any questions!
