@@ -1,4 +1,3 @@
-
 **Session 15** *(Fri May 26, 10:00)*  
 
 Don't forget to submit your presentations to the session 15 dropbox :)
